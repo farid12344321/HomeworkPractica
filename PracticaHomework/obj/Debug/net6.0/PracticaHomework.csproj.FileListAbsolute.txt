@@ -1,0 +1,15 @@
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\bin\Debug\net6.0\PracticaHomework.exe
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\bin\Debug\net6.0\PracticaHomework.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\bin\Debug\net6.0\PracticaHomework.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\bin\Debug\net6.0\PracticaHomework.dll
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\bin\Debug\net6.0\PracticaHomework.pdb
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.dll
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\refint\PracticaHomework.dll
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.pdb
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\PracticaHomework.genruntimeconfig.cache
+C:\Users\Farid\Desktop\homewotk\c#\PracticaHomework\PracticaHomework\obj\Debug\net6.0\ref\PracticaHomework.dll
